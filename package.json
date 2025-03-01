@@ -1,6 +1,6 @@
 {
   "name": "sidebery",
-  "version": "5.3.3",
+  "version": "5.3.4-beta.1",
   "description": "Manage your tabs and bookmarks in sidebar",
   "main": "index.js",
   "type": "module",
@@ -45,6 +45,7 @@
     "web-ext": "8.4.0"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
     "vue": "3.5.13"
   },
   "prettier": {
